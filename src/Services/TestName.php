@@ -1,7 +1,7 @@
 <?php
-namespace tls\Services;
+namespace tlsss\test\Services;
 
-use tlsss\Contracts\Test;
+use tlsss\test\Contracts\Test;
 
 class TestName implements Test
 {

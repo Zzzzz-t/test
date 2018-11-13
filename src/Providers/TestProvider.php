@@ -1,9 +1,9 @@
 <?php
-namespace tlsss\Providers;
+namespace tlsss\test\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use tlsss\Contracts\Test;
-use tlsss\Services\TestName;
+use tlsss\test\Contracts\Test;
+use tlsss\test\Services\TestName;
 
 class TestProvider extends ServiceProvider
 {
