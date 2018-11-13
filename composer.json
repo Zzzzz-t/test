@@ -13,13 +13,13 @@
     "extra": {
         "laravel": {
             "providers": [
-                "tls\\Providers\\TestProvider"
+                "tlsss\\Providers\\TestProvider"
             ]
         }
     },    
     "autoload": {
         "psr-4": {
-            "tls\\": "src/"
+            "tlsss\\": "src/"
         }
     }
 }
