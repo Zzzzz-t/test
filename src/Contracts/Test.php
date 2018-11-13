@@ -1,6 +1,6 @@
 <?php
 
-namespace tls\test\Contracts;
+namespace tls\Contracts;
 
 interface Test
 {

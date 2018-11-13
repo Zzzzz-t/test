@@ -13,13 +13,13 @@
     "extra": {
         "laravel": {
             "providers": [
-                "tls\\test\\Providers\\TestProvider"
+                "tls\\Providers\\TestProvider"
             ]
         }
     },    
     "autoload": {
         "psr-4": {
-            "Reasno\\SmsSender\\": "src/"
+            "tls\\": "src/"
         }
     }
 }
