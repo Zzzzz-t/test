@@ -25,6 +25,12 @@ class TestProvider extends ServiceProvider
             return new TestName();
         });
     }
+
+    public function provides()
+    {
+        return [Test::class];
+    }
+
 }
 
 ?>
